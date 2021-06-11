@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there!
+### My name is Adam Selter, I am a full-stack web developer 
+### TODO: finish this
 <!--
 **blackcatwizard/blackcatwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
