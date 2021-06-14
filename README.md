@@ -1,4 +1,4 @@
-### Hi there!
+### Salutations!
 ### My name is Adam Selter, I am a full-stack web developer, writer, and musician. 
 ### Currently, I am working on a project that assists the homeless with getting aid! Check it out below!
 ### We are out here creating sites to help make the world a little better.
