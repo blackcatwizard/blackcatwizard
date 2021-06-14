@@ -26,7 +26,7 @@
 
 
 ### I also publish short stories!
-### https://typesettwenty.wordpress.com/
+### https://typesettwenty.wordpress.com/2016/05/15/a-western-scene/
 <!--
 **blackcatwizard/blackcatwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
