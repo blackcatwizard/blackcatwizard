@@ -3,10 +3,17 @@
 ### Currently, I am working on a project that assists the homeless with getting aid! Check it out below!
 ### We are out here creating sites to help make the world a little better.
 
-### Portfolio of work: (Links pinned below)
+### Portfolio of work:
 ### Family Promise: Working with the City of Spokane, Washington, this project links individuals who are homeless or at-risk-of-homelessness to helpful services!
+### https://familypromise.org/
+### https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a
+### https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a
+### Anywhere Fitness: An online class creation and scheduling tool designed for workout trainers and their clients!
+### https://github.com/lambda-ttweb48-anywherefitness
 ### Food Trucker: A way for food trucks to advertise their locations and menus to customers!
+### https://github.com/tt-webft-4-trucker
 ### WaterMyPlants: Digital reminders to keep your plants watered and fed!
+### https://github.com/lambda-tt48-watermyplants/client
 
 ### Where to reach me:
 ### Linkedin: linkedin.com/in/adam-selter-7a06aa143
